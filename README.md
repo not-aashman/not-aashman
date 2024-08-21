@@ -2,7 +2,8 @@
 - 😄 Pronouns: he/him
 - 🌱 I’m currently learning Machine Learning 
 - 📫 How to reach me: reach_aashman@outlook.com
-- ⚡ Here are my achievements: <details>	
+- ⚡ Here are my achievements:
+- <details>	
  <summary><b>GSSOC(24) Badges 🪶</b></summary><br>
 <div style='display:flex; align-items:center; gap: 10px;' align='center'><a href="https://gssoc.girlscript.tech/leaderboard">
 <img src="https://raw.githubusercontent.com/girlscript/gssoc-website-new/main/public/badges/postman.png" width="100px" height="100px" />
