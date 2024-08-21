@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋 My name is Aashman and here are some things about me😁
 - 😄 Pronouns: he/him
 - 🌱 I’m currently learning Machine Learning 
 - 📫 How to reach me: reach_aashman@outlook.com
