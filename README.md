@@ -19,15 +19,18 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - ⚡ Here are my achievements: ...
 -->
-## GSSOC(24) Badges 🪶
-<div style='display:flex; align-items:center; gap: 10px;' align='center'>
-<img src="https://raw.githubusercontent.com/girlscript/gssoc-website-new/main/public/badges/postman.png" width="100px" height="100px" />
-  <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/1.png" width="100px" height="100px" />
-  <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/2.png" width="100px" height="100px" />
-  <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/3.png" width="100px" height="100px" />
-  <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/4.png" width="100px" height="100px" />
-  <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/5.png" width="100px" height="100px" />
-  <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/6.png" width="100px" height="100px" />
-  <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/7.png" width="100px" height="100px" />
-  <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/8.png" width="100px" height="100px" />
-</div>
+## Badges 
+![Postman API Fundamentals Student Expert](https://github.com/your-username/your-username/blob/main/badges/Postman%20-%20Postman%20API%20Fundamentals%20Student%20Expert%20-%202024-08-21.png)
+![Data Science](https://github.com/your-username/your-username/blob/main/badges/introduction-to-data-science.png)
+![IoT](https://github.com/your-username/your-username/blob/main/badges/introduction-to-iot.png)
+![Cybersecurity](https://github.com/your-username/your-username/blob/main/badges/introduction-to-cybersecurity.png)
+
+
+
+
+
+
+
+
+
+
