@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 - ⚡ Here are my achievements: ...
 -->
 ## Badges 
-![Postman API Fundamentals Student Expert](badges/Postman - Postman API Fundamentals Student Expert - 2024-08-21.png)
+![Postman API Fundamentals Student Expert](Postman - Postman API Fundamentals Student Expert - 2024-08-21.png)
 ![Data Science](badges/introduction-to-data-science.png)
 ![IoT](badges/introduction-to-iot.png)
 ![Cybersecurity](badges/introduction-to-cybersecurity.png)
